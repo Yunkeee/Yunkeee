@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&[https://github.com/zeynepssasmaz](https://github.com/zeynepssasmaz)=https://github.com/zeynepssasmaz)]() 
- <a href="https://medium.com/@zeynepssasmaz953" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-%40zeynepssasmaz-orange">
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&[https://github.com/Yunkeee](https://github.com/Yunkeee)=https://github.com/Yunkeee)]() 
+ <a href="https://medium.com/@ykerimblck" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-%40ybulacak-orange">
 [<img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png" align="left" />][linkedin]
 [<img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" align="left" />][instagram]
 
